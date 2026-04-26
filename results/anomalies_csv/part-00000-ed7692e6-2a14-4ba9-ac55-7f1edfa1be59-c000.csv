@@ -1,0 +1,3 @@
+timestamp,lat,lon,altitude,fix_quality,num_sats,hdop,speed,heading,satellite_id,elevation,azimuth,snr,producer_timestamp,signal_drop,satellite_loss,lat_diff,lon_diff,position_drift,anomaly_detected,anomaly_type
+,-32.810352535,136.058678345,289.559,1,12,1.0,0.01543332,,03,10.0,3.0,33.0,2026-04-17T05:14:29.068633Z,false,false,0.0,0.0,false,false,NONE
+,-32.810352396666666,136.058676805,289.773,1,12,1.0,0.01028888,,03,10.0,3.0,33.0,2026-04-17T05:14:30.581428Z,false,false,0.0,0.0,false,false,NONE

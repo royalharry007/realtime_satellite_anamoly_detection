@@ -1,0 +1,7 @@
+timestamp,lat,lon,altitude,fix_quality,num_sats,hdop,speed,heading,satellite_id,elevation,azimuth,snr,producer_timestamp,signal_drop,satellite_loss,lat_diff,lon_diff,position_drift,anomaly_detected,anomaly_type
+,,,,,,,,,20,,,0.19460000000000002,2026-04-16T06:57:59.992787Z,true,false,0.0,0.0,false,true,SIGNAL_DROP
+,,,,,,,,,20,,,0.18180000000000002,2026-04-16T06:58:00.178846Z,true,false,0.0,0.0,false,true,SIGNAL_DROP
+,,,,,,,,,1,,,0.46030000000000004,2026-04-16T06:58:00.308375Z,true,false,0.0,0.0,false,true,SIGNAL_DROP
+,,,,,,,,,19,,,0.4847,2026-04-16T06:58:00.430407Z,true,false,0.0,0.0,false,true,SIGNAL_DROP
+,,,,,,,,,21,,,-0.2296,2026-04-16T06:58:01.115253Z,true,false,0.0,0.0,false,true,SIGNAL_DROP
+,,,,,,,,,19,,,0.12890000000000001,2026-04-16T06:58:01.364208Z,true,false,0.0,0.0,false,true,SIGNAL_DROP

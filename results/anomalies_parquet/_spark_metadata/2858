@@ -1,0 +1,3 @@
+v1
+{"path":"file:///C:/Users/biken/Documents/BIKENDRA%20Documents/project%20file/BDA/GNSS%20PROJECT/gnss-project-main/results/anomalies_parquet/part-00000-69a4be46-8204-4355-a174-82ad5ea9b1af-c000.snappy.parquet","size":5484,"isDir":false,"modificationTime":1776402824557,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/biken/Documents/BIKENDRA%20Documents/project%20file/BDA/GNSS%20PROJECT/gnss-project-main/results/anomalies_parquet/part-00001-52f59ab3-5276-4e31-8e9e-722aef0628be-c000.snappy.parquet","size":5795,"isDir":false,"modificationTime":1776402824561,"blockReplication":1,"blockSize":33554432,"action":"add"}
